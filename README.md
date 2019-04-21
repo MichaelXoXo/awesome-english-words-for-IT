@@ -18,6 +18,8 @@
 - ctrl shift alt
   - [src-从 Ctrl、Shift、Alt 键看中外差别（用哲学角度解释）](https://mp.weixin.qq.com/s?__biz=MzI5MDM4NTYwOA==&mid=2247486712&idx=1&sn=6c1503b9338f082e298df075bd260ae8&chksm=ec21f75fdb567e49a94b3ab0a46df255189c835acb0a8ea6b45bafd23f98026c5b2ce7269403&mpshare=1&scene=1&srcid=#rd)
 
+---
+
 - daemon
 
 ```
@@ -25,6 +27,8 @@
 mysqld
 mongod
 ```
+
+---
 
 - dump
   - /dʌmp/ vt 倾倒、抛弃；
@@ -35,21 +39,38 @@ mongod
 tcpdump
 ```
 
+---
+
 - flush
   - /flʌʃ/ 清除，冲，使齐平 
   - eg1: `flush privileges;` MySQL 刷新权限
+
+---
+
 - invert
   - /ɪn'vɜːt/ 反置，倒转 
   - eg1: `grep -v/--invert-match .git` ，搜索不包括xx之后的内容
+
+---
+
 - invoke
   - /ɪn'vəʊk/ 调用；祈求 
   - eg1: `invoke script to do sth` 
+
+---
+
 - upside
   - /'ʌpsaɪd/ n.优势，上面 
   - eg1: `The upside is that the software will work` [src-Packaging Python software with pbr](https://julien.danjou.info/packaging-python-with-pbr/)
   - downside  /'daʊnsaɪd/ n.劣势，负面 
+
+---
+
 - Vendor
   - eg1: /'vendɔː/ 发行商或打包组织，RPM打包相关 [来源](http://hlee.iteye.com/blog/343499)
+
+---
+
 - wildcard
   - /'waɪldkɑrd/ 通配符 
   - 来源-Gitlab-设置保护分支名，可以使用通配符
