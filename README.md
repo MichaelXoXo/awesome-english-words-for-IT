@@ -6,11 +6,12 @@
 
 ## 规则
 
-每一个单词包括：
+单词：
 - 音标：英式
-- 例句：eg1: `xxx`，[src-]
-- 例句：eg1: `xxx`，[src-]
+- 例句：eg1: `xxx`，src
+- 例句：eg1: `xxx`，src
 - 相关单词：`releated:`
+- 补充说明
 
 ## 单词列表
 - ctrl shift alt
@@ -25,20 +26,22 @@
   - json.loads 解码，将一个JSON编码的字符串转换回一个Python数据结构 [src-cookbook-读写JSON数据](https://python3-cookbook.readthedocs.io/zh_CN/latest/c06/p02_read-write_json_data.html)
 - flush
   - /flʌʃ/ 清除，冲，使齐平 
-  - `flush privileges;` MySQL 刷新权限
+  - eg1: `flush privileges;` MySQL 刷新权限
 - invert
   - /ɪn'vɜːt/ 反置，倒转 
-  - `grep -v/--invert-match .git` ，搜索不包括xx之后的内容
+  - eg1: `grep -v/--invert-match .git` ，搜索不包括xx之后的内容
 - invoke
   - /ɪn'vəʊk/ 调用；祈求 
-  - `invoke script to do sth` 
+  - eg1: `invoke script to do sth` 
 - upside
   - /'ʌpsaɪd/ n.优势，上面 
-  - `The upside is that the software will work` [src-Packaging Python software with pbr](https://julien.danjou.info/packaging-python-with-pbr/)
+  - eg1: `The upside is that the software will work` [src-Packaging Python software with pbr](https://julien.danjou.info/packaging-python-with-pbr/)
   - downside  /'daʊnsaɪd/ n.劣势，负面 
 - Vendor
-  - /'vendɔː/ 发行商或打包组织，RPM打包相关 [来源](http://hlee.iteye.com/blog/343499)
-- wildcard：/'waɪldkɑrd/ 通配符 来源-Gitlab-设置保护分支名，可以使用通配符
+  - eg1: /'vendɔː/ 发行商或打包组织，RPM打包相关 [来源](http://hlee.iteye.com/blog/343499)
+- wildcard
+  - /'waɪldkɑrd/ 通配符 
+  - 来源-Gitlab-设置保护分支名，可以使用通配符
 
 ## 参考
 
