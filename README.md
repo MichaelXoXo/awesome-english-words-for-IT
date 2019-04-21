@@ -75,10 +75,10 @@ tcpdump
   - /'waɪldkɑrd/ 通配符 
   - 来源-Gitlab-设置保护分支名，可以使用通配符
 
+## 最后
+
+如果你有什么推荐的单词，欢迎提交 PR：https://github.com/Michael728/awesome-English-for-IT
+
 ## 参考
 
 - [Linux中常用的命令都是哪些单词的缩写？](https://www.zhihu.com/question/49073893)
-
-## 最后
-
-如果你有什么推荐的单词，欢迎补充！
