@@ -20,10 +20,12 @@
   - mysqld
   - mongod
 - dump
+```
   - /dʌmp/ vt 倾倒、抛弃；
   - tcpdump
   - json.dumps 编码
   - json.loads 解码，将一个JSON编码的字符串转换回一个Python数据结构 [src-cookbook-读写JSON数据](https://python3-cookbook.readthedocs.io/zh_CN/latest/c06/p02_read-write_json_data.html)
+```
 - flush
   - /flʌʃ/ 清除，冲，使齐平 
   - eg1: `flush privileges;` MySQL 刷新权限
