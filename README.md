@@ -16,20 +16,21 @@
 ## 单词列表
 - ctrl shift alt
 
-```
+<pre>
 [src-从 Ctrl、Shift、Alt 键看中外差别（用哲学角度解释）](https://mp.weixin.qq.com/s?__biz=MzI5MDM4NTYwOA==&mid=2247486712&idx=1&sn=6c1503b9338f082e298df075bd260ae8&chksm=ec21f75fdb567e49a94b3ab0a46df255189c835acb0a8ea6b45bafd23f98026c5b2ce7269403&mpshare=1&scene=1&srcid=#rd)
-```
+</pre>
 
 - daemon
   - mysqld
   - mongod
 - dump
-```
+<pre>
   - /dʌmp/ vt 倾倒、抛弃；
   - tcpdump
   - json.dumps 编码
   - json.loads 解码，将一个JSON编码的字符串转换回一个Python数据结构 [src-cookbook-读写JSON数据](https://python3-cookbook.readthedocs.io/zh_CN/latest/c06/p02_read-write_json_data.html)
-```
+</pre>
+
 - flush
   - /flʌʃ/ 清除，冲，使齐平 
   - eg1: `flush privileges;` MySQL 刷新权限
