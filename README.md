@@ -82,3 +82,4 @@ tcpdump
 ## 参考
 
 - [Linux中常用的命令都是哪些单词的缩写？](https://www.zhihu.com/question/49073893)
+- [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words)
