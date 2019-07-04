@@ -16,53 +16,65 @@
 ## 单词列表
 
 daemon
-- 关联: mysqld mongod
+
+关联: mysqld mongod
 
 ---
 
-dump `/dʌmp/`; vt 倾倒、抛弃；
+dump 
+- `/dʌmp/`; vt 倾倒、抛弃；
 - `json.dumps` 编码
 - `json.loads` 解码，将一个JSON编码的字符串转换回一个Python数据结构 [src-cookbook-读写JSON数据](https://python3-cookbook.readthedocs.io/zh_CN/latest/c06/p02_read-write_json_data.html)
-- 关联：tcpdump
+
+关联：tcpdump
 
 ---
 
-flush `/flʌʃ/`; 清除，冲，使齐平 
+flush 
+- `/flʌʃ/`; 清除，冲，使齐平 
 - `flush privileges;` MySQL 刷新权限
 
 ---
 
-invert `/ɪn'vɜːt/`; 反置，倒转 
+invert 
+- `/ɪn'vɜːt/`; 反置，倒转 
 - `grep -v/--invert-match .git` ，搜索不包括xx之后的内容
 
 ---
 
-invoke `/ɪn'vəʊk/`; 调用；祈求 
+invoke 
+- `/ɪn'vəʊk/`; 调用；祈求 
 - `invoke script to do sth` 
 
 ---
 
-prefix `/'priːfɪks/`; n/vt 前缀
+prefix 
+- `/'priːfɪks/`; n/vt 前缀
+
 ```
 startsWith(String prefix)
 Tests if this string starts with the specified prefix.
 ```
-- 相关单词: suffix  `endsWith(String suffix)`
 
+关联: suffix  `endsWith(String suffix)`
 
 ---
 
-upside `/'ʌpsaɪd/`; n.优势，上面 
+upside 
+- `/'ʌpsaɪd/`; n.优势，上面 
 - `The upside is that the software will work` [src-Packaging Python software with pbr](https://julien.danjou.info/packaging-python-with-pbr/)
-- 相关单词: downside  `/'daʊnsaɪd/` n.劣势，负面 
+
+关联: downside  `/'daʊnsaɪd/` n.劣势，负面 
 
 ---
 
-Vendor `/'vendɔː/`; 发行商或打包组织，RPM打包相关 [来源](http://hlee.iteye.com/blog/343499)
+Vendor 
+- `/'vendɔː/`; 发行商或打包组织，RPM打包相关 [来源](http://hlee.iteye.com/blog/343499)
 
 ---
 
-wildcard /'waɪldkɑrd/ 通配符 
+wildcard 
+- `/'waɪldkɑrd/` 通配符 
 - 来源-Gitlab-设置保护分支名，可以使用通配符
 
 ## 其他
