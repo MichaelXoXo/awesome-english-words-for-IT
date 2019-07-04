@@ -2,12 +2,12 @@
 
 ## 背景
 
-总结本文的原因是看到了一篇文章[3分钟学会一个小技巧](https://mp.weixin.qq.com/s?__biz=MjM5MzgyODQxMQ==&mid=2650369197&idx=1&sn=0057a786cb28f9d264e8bdd5ed0a0d15&chksm=be9cd7f989eb5eefa012a502def9c071ac790e70162ec525c8dc43b087c961648ee1a9bb6264&mpshare=1&scene=1&srcid=1115C4UhHFYie2bJLm4K8erU#rd)。主要就是介绍了通过理解`strptime`和`strftime`中`p`和`f`的含义，记住这两个方法的区别。于是受启发，尝试将工作中遇到的单词总结一下。
+从事 IT 行业，不可避免的要阅读英文文档。有些单词经常看到，于是总结一些常用的词汇。记住了单词，往往也就记住了知识点！这对理解一些编程知识点很有帮助。
 
 ## 规则
 
 单词：
-- 音标：英式
+- 音标：`[xxx]` 英式
 - 例句：`xxx`
 - 关联单词：`xxx`
 
