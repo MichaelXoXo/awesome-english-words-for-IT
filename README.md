@@ -15,52 +15,37 @@
 
 ## 单词列表
 
-- ctrl shift alt
-  - [src-从 Ctrl、Shift、Alt 键看中外差别（用哲学角度解释）](https://mp.weixin.qq.com/s?__biz=MzI5MDM4NTYwOA==&mid=2247486712&idx=1&sn=6c1503b9338f082e298df075bd260ae8&chksm=ec21f75fdb567e49a94b3ab0a46df255189c835acb0a8ea6b45bafd23f98026c5b2ce7269403&mpshare=1&scene=1&srcid=#rd)
-
----
-
-- daemon
-
-```
-相关：
+daemon
+- ：
 mysqld
 mongod
 ```
 
 ---
 
-dump
-- `/dʌmp/`; vt 倾倒、抛弃；
+dump `/dʌmp/`; vt 倾倒、抛弃；
 - `json.dumps` 编码
 - `json.loads` 解码，将一个JSON编码的字符串转换回一个Python数据结构 [src-cookbook-读写JSON数据](https://python3-cookbook.readthedocs.io/zh_CN/latest/c06/p02_read-write_json_data.html)
-```
-相关：
-tcpdump
-```
+- 关联：tcpdump
 
 ---
 
-flush
-- `/flʌʃ/`; 清除，冲，使齐平 
+flush `/flʌʃ/`; 清除，冲，使齐平 
 - `flush privileges;` MySQL 刷新权限
 
 ---
 
-invert
-- `/ɪn'vɜːt/`; 反置，倒转 
+invert `/ɪn'vɜːt/`; 反置，倒转 
 - `grep -v/--invert-match .git` ，搜索不包括xx之后的内容
 
 ---
 
-invoke
-- `/ɪn'vəʊk/`; 调用；祈求 
+invoke `/ɪn'vəʊk/`; 调用；祈求 
 - `invoke script to do sth` 
 
 ---
 
-prefix
-- `/'priːfɪks/`; n/vt 前缀
+prefix `/'priːfɪks/`; n/vt 前缀
 ```
 startsWith(String prefix)
 Tests if this string starts with the specified prefix.
@@ -70,21 +55,23 @@ Tests if this string starts with the specified prefix.
 
 ---
 
-upside
-- `/'ʌpsaɪd/`; n.优势，上面 
+upside `/'ʌpsaɪd/`; n.优势，上面 
 - `The upside is that the software will work` [src-Packaging Python software with pbr](https://julien.danjou.info/packaging-python-with-pbr/)
 - 相关单词: downside  `/'daʊnsaɪd/` n.劣势，负面 
 
 ---
 
-Vendor
-- `/'vendɔː/`; 发行商或打包组织，RPM打包相关 [来源](http://hlee.iteye.com/blog/343499)
+Vendor `/'vendɔː/`; 发行商或打包组织，RPM打包相关 [来源](http://hlee.iteye.com/blog/343499)
 
 ---
 
-wildcard
-- /'waɪldkɑrd/ 通配符 
+wildcard /'waɪldkɑrd/ 通配符 
 - 来源-Gitlab-设置保护分支名，可以使用通配符
+
+## 其他
+
+ctrl shift alt
+- [src-从 Ctrl、Shift、Alt 键看中外差别（用哲学角度解释）](https://mp.weixin.qq.com/s?__biz=MzI5MDM4NTYwOA==&mid=2247486712&idx=1&sn=6c1503b9338f082e298df075bd260ae8&chksm=ec21f75fdb567e49a94b3ab0a46df255189c835acb0a8ea6b45bafd23f98026c5b2ce7269403&mpshare=1&scene=1&srcid=#rd)
 
 ## 最后
 
