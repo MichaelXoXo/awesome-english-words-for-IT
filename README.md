@@ -15,6 +15,15 @@
 
 ## 单词列表
 
+delimiter
+- `/dɪ'lɪmɪtə/` n. [计] 定界符
+```
+join(CharSequence delimiter, Iterable<? extends CharSequence> elements)
+Returns a new String composed of copies of the CharSequence elements joined together with a copy of the specified delimiter.
+```
+
+---
+
 daemon
 
 关联: mysqld mongod
