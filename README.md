@@ -25,7 +25,7 @@ Returns a new String composed of copies of the CharSequence elements joined toge
 ---
 
 daemon
-
+-  `/'diːmən/` n. 守护进程；后台程序
 关联: mysqld mongod
 
 ---
