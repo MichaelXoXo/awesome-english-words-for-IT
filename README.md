@@ -77,7 +77,7 @@ upside
 
 ---
 
-Vendor 
+vendor 
 - `['vendɔː]`; 发行商或打包组织，RPM打包相关 [来源](http://hlee.iteye.com/blog/343499)
 
 ---
