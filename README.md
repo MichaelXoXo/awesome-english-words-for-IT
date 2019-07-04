@@ -16,7 +16,7 @@
 ## 单词列表
 
 delimiter
-- `/dɪ'lɪmɪtə/` n. [计] 定界符
+- `[dɪ'lɪmɪtə]` n. [计] 定界符
 ```
 join(CharSequence delimiter, Iterable<? extends CharSequence> elements)
 Returns a new String composed of copies of the CharSequence elements joined together with a copy of the specified delimiter.
@@ -25,13 +25,13 @@ Returns a new String composed of copies of the CharSequence elements joined toge
 ---
 
 daemon
--  `/'diːmən/` n. 守护进程；后台程序
+-  `['diːmən]` n. 守护进程；后台程序
 关联: mysqld mongod
 
 ---
 
 dump 
-- `/dʌmp/`; vt 倾倒、抛弃；
+- `[dʌmp]`; vt 倾倒、抛弃；
 - `json.dumps` 编码
 - `json.loads` 解码，将一个JSON编码的字符串转换回一个Python数据结构 [src-cookbook-读写JSON数据](https://python3-cookbook.readthedocs.io/zh_CN/latest/c06/p02_read-write_json_data.html)
 
@@ -40,37 +40,37 @@ dump
 ---
 
 flush 
-- `/flʌʃ/`; 清除，冲，使齐平 
+- `[flʌʃ]`; 清除，冲，使齐平 
 - `flush privileges;` MySQL 刷新权限
 
 ---
 
 invert 
-- `/ɪn'vɜːt/`; 反置，倒转 
+- `[ɪn'vɜːt]`; 反置，倒转 
 - `grep -v/--invert-match .git` ，搜索不包括xx之后的内容
 
 ---
 
 invoke 
-- `/ɪn'vəʊk/`; 调用；祈求 
+- `[ɪn'vəʊk]`; 调用；祈求 
 - `invoke script to do sth` 
 
 ---
 
 prefix 
-- `/'priːfɪks/`; n/vt 前缀
+- `['priːfɪks]`; n/vt 前缀
 
 ```
 startsWith(String prefix)
 Tests if this string starts with the specified prefix.
 ```
 
-关联: suffix  `endsWith(String suffix)`
+关联: suffix  `['sʌfɪks]` `endsWith(String suffix)`
 
 ---
 
 upside 
-- `/'ʌpsaɪd/`; n.优势，上面 
+- `['ʌpsaɪd]`; n.优势，上面 
 - `The upside is that the software will work` [src-Packaging Python software with pbr](https://julien.danjou.info/packaging-python-with-pbr/)
 
 关联: downside  `/'daʊnsaɪd/` n.劣势，负面 
@@ -78,12 +78,12 @@ upside
 ---
 
 Vendor 
-- `/'vendɔː/`; 发行商或打包组织，RPM打包相关 [来源](http://hlee.iteye.com/blog/343499)
+- `['vendɔː]`; 发行商或打包组织，RPM打包相关 [来源](http://hlee.iteye.com/blog/343499)
 
 ---
 
 wildcard 
-- `/'waɪldkɑrd/` 通配符 
+- `['waɪldkɑrd]` 通配符 
 - 来源-Gitlab-设置保护分支名，可以使用通配符
 
 ## 其他
