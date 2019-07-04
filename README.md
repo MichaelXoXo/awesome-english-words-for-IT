@@ -8,8 +8,8 @@
 
 单词：
 - 音标：英式
-- 例句：eg1: `xxx`，src
-- 例句：eg1: `xxx`，src
+- 例句：`xxx`
+- 例句：`xxx`
 - 相关单词：`releated:`
 - 补充说明
 
@@ -30,10 +30,10 @@ mongod
 
 ---
 
-- dump
-  - /dʌmp/ vt 倾倒、抛弃；
-  - json.dumps 编码
-  - json.loads 解码，将一个JSON编码的字符串转换回一个Python数据结构 [src-cookbook-读写JSON数据](https://python3-cookbook.readthedocs.io/zh_CN/latest/c06/p02_read-write_json_data.html)
+dump
+- `/dʌmp/`; vt 倾倒、抛弃；
+- `json.dumps` 编码
+- `json.loads` 解码，将一个JSON编码的字符串转换回一个Python数据结构 [src-cookbook-读写JSON数据](https://python3-cookbook.readthedocs.io/zh_CN/latest/c06/p02_read-write_json_data.html)
 ```
 相关：
 tcpdump
@@ -41,45 +41,56 @@ tcpdump
 
 ---
 
-- flush
-  - /flʌʃ/ 清除，冲，使齐平 
-  - eg1: `flush privileges;` MySQL 刷新权限
+flush
+- `/flʌʃ/`; 清除，冲，使齐平 
+- `flush privileges;` MySQL 刷新权限
 
 ---
 
-- invert
-  - /ɪn'vɜːt/ 反置，倒转 
-  - eg1: `grep -v/--invert-match .git` ，搜索不包括xx之后的内容
+invert
+- `/ɪn'vɜːt/`; 反置，倒转 
+- `grep -v/--invert-match .git` ，搜索不包括xx之后的内容
 
 ---
 
-- invoke
-  - /ɪn'vəʊk/ 调用；祈求 
-  - eg1: `invoke script to do sth` 
+invoke
+- `/ɪn'vəʊk/`; 调用；祈求 
+- `invoke script to do sth` 
 
 ---
 
-- upside
-  - /'ʌpsaɪd/ n.优势，上面 
-  - eg1: `The upside is that the software will work` [src-Packaging Python software with pbr](https://julien.danjou.info/packaging-python-with-pbr/)
-  - downside  /'daʊnsaɪd/ n.劣势，负面 
+prefix
+- `/'priːfɪks/`; n/vt 前缀
+```
+startsWith(String prefix)
+Tests if this string starts with the specified prefix.
+```
+- 相关单词: suffix  `endsWith(String suffix)`
+
 
 ---
 
-- Vendor
-  - eg1: /'vendɔː/ 发行商或打包组织，RPM打包相关 [来源](http://hlee.iteye.com/blog/343499)
+upside
+- `/'ʌpsaɪd/`; n.优势，上面 
+- `The upside is that the software will work` [src-Packaging Python software with pbr](https://julien.danjou.info/packaging-python-with-pbr/)
+- 相关单词: downside  `/'daʊnsaɪd/` n.劣势，负面 
 
 ---
 
-- wildcard
-  - /'waɪldkɑrd/ 通配符 
-  - 来源-Gitlab-设置保护分支名，可以使用通配符
+Vendor
+- `/'vendɔː/`; 发行商或打包组织，RPM打包相关 [来源](http://hlee.iteye.com/blog/343499)
+
+---
+
+wildcard
+- /'waɪldkɑrd/ 通配符 
+- 来源-Gitlab-设置保护分支名，可以使用通配符
 
 ## 最后
 
-如果你有什么推荐的单词，欢迎提交 PR：https://github.com/Michael728/awesome-English-for-IT
+如果你有什么推荐的单词，欢迎提交 PR
 
 ## 参考
 
 - [Linux中常用的命令都是哪些单词的缩写？](https://www.zhihu.com/question/49073893)
-- [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words)
+- [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) 推荐
