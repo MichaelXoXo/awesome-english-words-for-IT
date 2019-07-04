@@ -16,10 +16,7 @@
 ## 单词列表
 
 daemon
-- ：
-mysqld
-mongod
-```
+- 关联: mysqld mongod
 
 ---
 
