@@ -55,6 +55,11 @@ invoke
 
 ---
 
+metric
+- `['metrɪk]` n. 度量标准
+
+---
+
 prefix 
 - `['priːfɪks]`; n/vt 前缀
 
@@ -67,8 +72,25 @@ Tests if this string starts with the specified prefix.
 
 ---
 
+scale
+- ` [skeɪl]` CHANGE SIZE 改变大小
+
+```
+scale_out_k8s 
+scale_in_k8s 
+scaleunit 步长
+```
+
+---
+
+threshold 阈值
+- `['θreʃəʊld]` 临界值，阈值
+
+
+---
+
 upside 
-- `['ʌpsaɪd]`; n.优势，上面 
+- `['ʌpsaɪd]` n.优势，上面 
 - `The upside is that the software will work` [src-Packaging Python software with pbr](https://julien.danjou.info/packaging-python-with-pbr/)
 
 关联: downside  `/'daʊnsaɪd/` n.劣势，负面 
@@ -76,7 +98,7 @@ upside
 ---
 
 vendor 
-- `['vendɔː]`; 发行商或打包组织，RPM打包相关 [来源](http://hlee.iteye.com/blog/343499)
+- `['vendɔː]` 发行商或打包组织，RPM打包相关 [来源](http://hlee.iteye.com/blog/343499)
 
 ---
 
