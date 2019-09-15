@@ -119,3 +119,4 @@ ctrl shift alt
 
 - [Linux中常用的命令都是哪些单词的缩写？](https://www.zhihu.com/question/49073893)
 - [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) 推荐
+- [DevOps-Handbook/DevOps-Handbook.github.io](https://github.com/DevOps-Handbook/DevOps-Handbook.github.io/blob/master/glossary.md) DevOps术语表
