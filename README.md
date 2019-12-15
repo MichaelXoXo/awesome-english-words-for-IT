@@ -13,6 +13,16 @@
 
 ## 单词列表
 
+braces
+-  `[breɪs]` 大括号，也常用 `curly brackets`
+
+补充：
+- `[ ]` square brackets 或 brackets 方括号
+- `< >` angled brackets 尖括号
+- `( )` parentheses 圆括号 ​​​​
+
+---
+
 delimiter
 - `[dɪ'lɪmɪtə]` n. [计] 定界符
 ```
