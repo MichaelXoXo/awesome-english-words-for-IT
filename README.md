@@ -39,11 +39,13 @@ daemon
 ---
 
 dump 
-- `[dʌmp]`; vt 倾倒、抛弃；
+- `[dʌmp]`; vt 倾倒、抛弃；通俗理解为[转存]
 - `json.dumps` 编码
 - `json.loads` 解码，将一个JSON编码的字符串转换回一个Python数据结构 [src-cookbook-读写JSON数据](https://python3-cookbook.readthedocs.io/zh_CN/latest/c06/p02_read-write_json_data.html)
 
 关联：tcpdump
+
+- [计算机术语dump是什么意思？](https://www.zhihu.com/question/285731828/answer/455335550)
 
 ---
 
